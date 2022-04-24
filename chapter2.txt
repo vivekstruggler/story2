@@ -1,1 +1,2 @@
 I have practiced the cli for branching and merging before, now practising graphical user interface. It is also very easy.
+I am now making a new branch using gui.
