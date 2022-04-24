@@ -1,0 +1,1 @@
+This story file is a practice of branching and merging in github.
